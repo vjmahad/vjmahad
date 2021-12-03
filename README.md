@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vjmahad
 - 👀 I’m interested in Web Development and UI/UX Design
-- 🌱 I’m currently learning JavaScriptj
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me : Twitter @vjmahad
 
